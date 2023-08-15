@@ -10,4 +10,4 @@ first_Number = float(input("Please input first number: "));
 second_Number = float(input("Please input second number: "));
 Add = first_Number + second_Number;
 result = "Sum : "+ str(Add)
-print(result)200
+print(result)

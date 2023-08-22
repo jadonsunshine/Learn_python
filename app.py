@@ -44,7 +44,8 @@ print("Python" in course)
 # not  market_value <20
 
 # //If statement in Python
-temperature = 30
+temperatur
+e = 30
 if temperature >30:
         print("it's a hot day")
         print("drink plenty of water")
